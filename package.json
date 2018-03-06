@@ -88,6 +88,6 @@
     "webpack-merge": "^4.0.0"
   },
   "dependencies": {
-    "viewerjs": "romines/viewerjs"
+    "viewerjs": "github:romines/viewerjs"
   }
 }
